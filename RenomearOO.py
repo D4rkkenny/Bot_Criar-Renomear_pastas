@@ -20,8 +20,8 @@ class renomear_pastas:
             for pasta in self.pastas(item):
                 for i in range(1, 13):
                     if pasta == SU.meses()[i-1]:
-                        caminho_pastas_antiga = item[i-1] + SU.meses()[i-1]
-                        caminho_pasta_nova = item[i-1]  + f"{i} - " + SU.meses()[i-1]
+                        caminho_pastas_antiga = os.path.join(item, SU.meses()[i-1])
+                        caminho_pasta_nova = os.path.join(item, f"{i} - " + SU.meses()[i-1])
                         try:
                             os.rename(caminho_pastas_antiga, caminho_pasta_nova)
                         except OSError as e:

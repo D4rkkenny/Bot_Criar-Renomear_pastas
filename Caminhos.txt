@@ -1,5 +1,4 @@
-C:\Users\brunoms\Desktop\Bot_Criar-Renomear_pastas-main\Bot_Criar-Renomear_pastas-main\Meses\2020
-C:\Users\brunoms\Desktop\Bot_Criar-Renomear_pastas-main\Bot_Criar-Renomear_pastas-main\Meses\2021
-C:\Users\brunoms\Desktop\Bot_Criar-Renomear_pastas-main\Bot_Criar-Renomear_pastas-main\Meses\2022
-C:\Users\brunoms\Desktop\Bot_Criar-Renomear_pastas-main\Bot_Criar-Renomear_pastas-main\Meses\2023
-C:\Users\brunoms\Desktop\Bot_Criar-Renomear_pastas-main\Bot_Criar-Renomear_pastas-main\Meses\2024
+C:\Users\brunoms\Desktop\teste\2020
+C:\Users\brunoms\Desktop\teste\2022
+C:\Users\brunoms\Desktop\teste\2023
+C:\Users\brunoms\Desktop\teste\2024
